@@ -1,0 +1,42 @@
+# Java
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+target/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+
+# H2 database
+*.mv.db
+*.trace.db
+
+# Env
+.env
+application-local.yml
+
+# Node (just in case)
+node_modules/
+dist/
+
+# secrets
+application-prod.yml
